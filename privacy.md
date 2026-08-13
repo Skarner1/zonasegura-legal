@@ -13,7 +13,7 @@ permalink: /privacy/
 
 ## 1. Who is responsible for your data
 
-Zona Segura (the "app") is developed and operated by Ivan Torres, based in Colombia.
+Zona Segura (the "app") is developed and operated by Ivan Santiago Torres, based in Colombia.
 
 For anything related to this policy or to your personal data, write to **[ivantr158@gmail.com](mailto:ivantr158@gmail.com)**.
 
@@ -183,6 +183,6 @@ and ask you to accept it again before continuing.
 
 ## 14. Contact
 
-**Ivan Torres**
+**Ivan Santiago Torres**
 Email: [ivantr158@gmail.com](mailto:ivantr158@gmail.com)
 Country: Colombia
