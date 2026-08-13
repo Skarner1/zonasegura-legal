@@ -13,7 +13,7 @@ permalink: /
 
 ## 1. Quién es responsable de tus datos
 
-Zona Segura (la «app») es desarrollada y operada por Ivan Torres, con domicilio en Colombia.
+Zona Segura (la «app») es desarrollada y operada por Ivan Santiago Torres, con domicilio en Colombia.
 
 Para cualquier asunto relacionado con esta política o con tus datos personales, escribe a **[ivantr158@gmail.com](mailto:ivantr158@gmail.com)**.
 
@@ -184,6 +184,6 @@ avisaremos dentro de la app y te pediremos que aceptes de nuevo antes de continu
 
 ## 14. Contacto
 
-**Ivan Torres**
+**Ivan Santiago Torres**
 Correo: [ivantr158@gmail.com](mailto:ivantr158@gmail.com)
 País: Colombia
