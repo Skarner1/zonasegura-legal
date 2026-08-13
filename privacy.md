@@ -9,7 +9,7 @@ permalink: /privacy/
 **Last updated:** August 13, 2026
 **App version:** 2.3.1
 
-[Versión en español](../) · **English**
+[Versión en español](../) · **English** · [How to delete your data](../delete-data/)
 
 ## 1. Who is responsible for your data
 
