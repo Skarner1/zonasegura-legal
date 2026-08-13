@@ -9,7 +9,7 @@ permalink: /
 **Última actualización:** 13 de agosto de 2026
 **Versión de la aplicación:** 2.3.1
 
-**Español** · [English version](privacy/)
+**Español** · [English version](privacy/) · [Cómo eliminar tus datos](eliminar-datos/)
 
 ## 1. Quién es responsable de tus datos
 
